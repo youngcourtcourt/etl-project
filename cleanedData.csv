@@ -1,4 +1,4 @@
-,encounter_id,task_id,advertising_id,creative_type_id,tags,age,city,city_rank,device_name,device_size,career,gender,residence,app_score,device_price,membership:type,consume_purchase
+,encounter_id,task_id,advertising_id,creative_type_id,tags,age,city,city_rank,device_name,device_size,career,gender,residence,app_score,device_price,membership_type,consume_purchase
 0,1,3577,5884,7,37,6,262,5,29,141,9,4,46,2,3,-1,2
 1,2,2926,4168,3,41,4,275,5,56,141,3,2,23,2,4,-1,2
 2,3,3869,6751,7,39,5,398,4,46,141,3,4,34,2,3,-1,2
